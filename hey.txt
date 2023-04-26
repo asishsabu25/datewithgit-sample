@@ -8,3 +8,6 @@ this is my last night tommorow iam not here
 html 
 css
 javascript
+python
+Django
+flask
